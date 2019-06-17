@@ -1,0 +1,25 @@
+body {
+    font-size: small;
+    font-family: Verdana, Geneva, Ariel, sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    border: thin solid red;
+    padding:  10px 40px 10px 40px;
+    width: 900px;
+}
+
+.col-sm-8 {
+    margin: 0 auto;
+    border: thin solid red; 
+}
+
+.col-sm-4 {
+    margin: 0 auto;
+    border: thin solid red; 
+}
+
+.footer {
+    border: thin solid red; 
+}
