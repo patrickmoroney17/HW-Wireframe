@@ -26,10 +26,16 @@ h1, p {
 .col-sm-4 {
     margin: 0 auto;
     border: thin solid red; 
+    float: right;
+}
+
+.navS {
+    border: thin solid purple; 
+    color: #ebebeb;
 }
 
 .arts {
-    border: thin solid white; 
+    border: thin solid purple; 
     background-color: #777;
     color: #ebebeb;
     margin:  10px 10px 10px 10px;
@@ -39,20 +45,29 @@ h1, p {
     border: thin solid purple; 
     background-color: #777;
     color: #ebebeb;
+    width: 495px;
 }
 
-.aside {
+.aSideHead {
+    border: thin solid yellow; 
+    background-color: #777;
+    color: #ebebeb;
+
+}
+
+.aSideText {
     border: thin solid purple; 
     background-color: #777;
     color: #ebebeb;
+
 }
 
-#header {
-        border: thin solid red; 
-        background-color: #ebebeb;
+.heads {
+    border: thin solid red; 
+    background-color: #ebebeb;
 }
 
-#footer {
+.foots {
     border: thin solid red; 
     background-color: #ebebeb;
 }
