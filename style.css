@@ -6,6 +6,11 @@ body {
     font-size: 18px;
 }
 
+h1, p {
+    background-color: #777;
+    color: #ebebeb;
+}
+
 .container {
     margin: 0 auto;
     border: thin solid red;
@@ -24,8 +29,16 @@ body {
 }
 
 #arts {
-    border: thin solid red; 
+    border: thin solid white; 
     background-color: #777;
+    color: #ebebeb;
+    margin:  10px 10px 10px 10px;
+}
+
+#sect {
+    border: thin solid purple; 
+    background-color: #777;
+    color: #ebebeb;
 }
 
 #header {
