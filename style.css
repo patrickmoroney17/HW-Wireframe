@@ -28,14 +28,20 @@ h1, p {
     border: thin solid red; 
 }
 
-#arts {
+.arts {
     border: thin solid white; 
     background-color: #777;
     color: #ebebeb;
     margin:  10px 10px 10px 10px;
 }
 
-#sect {
+.sect {
+    border: thin solid purple; 
+    background-color: #777;
+    color: #ebebeb;
+}
+
+.aside {
     border: thin solid purple; 
     background-color: #777;
     color: #ebebeb;
