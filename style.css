@@ -92,6 +92,8 @@ footer {
     background-color: #ebebeb;
     color: #777;
     clear: both;
+    overflow: auto;
     padding: 20px;
+    margin-top: 50px;
     border: thin solid blue; 
 }
