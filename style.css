@@ -51,7 +51,7 @@ nav {
 
 aside {
     background-color: #ebebeb;
-    color: #777;#
+    color: #777;
     padding: 20px;
     margin-bottom: 10px;
     height: 268px;
@@ -66,7 +66,7 @@ article {
     border: thin solid red; 
 }
 
-#hs {
+#hs, #ps {
     background-color: #ebebeb;
     color: #777;  
     padding: 20px;
@@ -74,16 +74,6 @@ article {
     margin: 20px auto;
     width: 80%;
     border: thin solid yellow;  
-}
-
-#ps {
-    background-color: #ebebeb;
-    color: #777; 
-    padding: 20px;
-    margin-bottom: 10px;
-    margin: 20px auto;
-    width: 80%;
-    border: thin solid yellow; 
 }
 
 footer {
